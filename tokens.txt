@@ -1,0 +1,3 @@
+[Enter Your Tokens in this format] (also delete all the texts that are in the tokens.txt folder !)
+token 1
+token 2
