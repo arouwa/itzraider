@@ -143,7 +143,7 @@ def main():
 ██║░░██║██║░░██║██║██████╔╝███████╗██║░░██║
 ╚═╝░░╚═╝╚═╝░░╚═╝╚═╝╚═════╝░╚══════╝╚═╝░░╚═╝
 
-         1-) Raid             2-) Mass Join            3-)  Onliner       Made By D0ruk
+         1-) Raid             2-) Mass Join            3-)  Onliner      By NxbulaEcho
         """)
         choice = input(Fore.RED + "Enter your choice: ")
 
